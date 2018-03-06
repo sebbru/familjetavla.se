@@ -1,0 +1,115 @@
+*** Galleria Changelog ***
+
+2016.12.09 - version 2.2.9
+ * Fix - Cart layout on smaller screens and other minor responsive tweaks.
+
+2016.11.28 - version 2.2.8
+ * Fix - Replace instances of deprecated functions.
+
+2016.10.24 - version 2.2.7
+ * Fix - Integration with Jetpack infinite scroll (requires Storefront 2.1.5).
+
+2016.10.07 - version 2.2.6
+ * Fix - Inline links to tabs on product pages.
+
+2016.09.30 - version 2.2.5
+ * Fix - Mega menus permanently visible with Storefront 2.1.3.
+
+2016.09.02 - version 2.2.4
+ * Fix - Logo alignment.
+
+2016.08.15 - version 2.2.3
+ * Tweak - Storefront 2.1 compatibility.
+
+2016.08.02 - version 2.2.2
+ * Fix - Storefront Hamburger Menu plugin compatibility.
+
+2016.06.21 - version 2.2.1
+ * Fix - Fatal error when using Galleria without WooCommerce.
+
+2016.06.20 - version 2.2.0
+ * New - Compatibility with WooCommerce Quick View
+ * Fix - Logo alignment on handheld devices
+
+2016.05.16 - version 2.1.8
+ * Fix - Default columns on shop page reset to 4.
+ * Fix - Pagination active link background.
+ * Fix - Button colors in widgets.
+ * Fix - Preloader display.
+ * Dev - Set a default background color correctly.
+
+2016.05.12 - version 2.1.7
+ * Fix - Style.css version number.
+
+2016.05.11 - version 2.1.6
+ * Fix - Breadcrumb home icon.
+
+2016.05.11 - version 2.1.5
+ * Tweak - Adopt Storefront 2.0's methods for applying default settings.
+ * Fix - Removed defunct primary nav background color setting.
+
+2016.05.10 - version 2.1.4
+ * Fix - Support for WordPress 4.5's custom logo feature.
+
+2016.04.11 - version 2.1.3
+ * Fix - Related products / Upsells layout on desktop.
+
+2016.03.31 - version 2.1.2
+ * Fix - Related products / Upsells layout on handheld devices.
+
+2016.03.18 - version 2.1.1
+ * Tweak - Storefront 2.0.0 compatibility.
+
+2016.03.07 - version 2.1.0
+ * New - Adds an option to disable the preloader.
+ * Fix - Mega Menu dropdown background color on install.
+ * Fix - Product detail element positioning when added to mega menus in a single column layout.
+ * Tweak - Improved main navigation dropdown positioning.
+
+2016.02.17 - version 2.0.0
+ * New - Underlying code structure rewritten to use a more efficient class structure.
+ * Fix - RTL styling fixes.
+ * Fix - Cart widget styling when used in footer.
+
+2016.01.27 - version 1.2.1
+ * Fix - Compatibility with Storefront Hamburger Menu when disabling the site search.
+
+2016.01.25 - version 1.2.0
+ * New - Compatibility with Storefront Hamburger Menu plugin
+ * Fix - Compatibility with the Storefront WooCommerce Customiser's Infinite Scroll feature
+ * Tweak - Some general tweaks in preparation for Storefront 2.0.
+
+2015.11.19 - version 1.1.1
+ * Fix - Ensure that the product category titles are always centered.
+
+2015.11.05 -  version 1.1.0
+ * New - Integration with Storefront Mega Menus.
+ * New - Integration with Storefront Parallax Hero 1.4.0
+ * Fix - Product layout when using RTL.
+
+2015.10.24 -  version 1.0.7
+ * Fix - Ensure consistent product layout when using the WooCommerce customiser extension and setting the shop page to 4 columns.
+
+2015.10.06 - version 1.0.6
+ * Fix - Ensure related product columns are of equal width.
+
+2015.10.06 - version 1.0.5
+ * Fix - Fixed a bug where Masonry wouldn't load correctly on product archives.
+
+2015.10.06 - version 1.0.4
+ * Fix - Changing the header link color will now refresh the preview window for a more accurate preview.
+ * Tweak - No longer uses Masonry to arrange products when using Storefront WooCommerce Customiser full width option.
+ * Tweak - No longer uses Masonry to arrange related products / upsells layout.
+
+2015.09.23 - version 1.0.3
+ * Fix - No longer unnecessarily uses masonry for the homepage product layout.
+
+2015.09.04 - version 1.0.2
+ * Fix - Integration with Storefront WooCommerce Customisers header search/cart toggle options.
+
+2015.08.12 - version 1.0.1
+ * Fix - Pagination active link background color.
+ * Fix - Site logo now aligns centrally.
+
+2015.06.03 - version 1.0.0
+ * Initial release.

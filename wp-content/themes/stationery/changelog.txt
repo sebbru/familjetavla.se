@@ -1,0 +1,34 @@
+*** Stationery Changelog ***
+
+2017.11.03 - version 1.0.9
+ * Fix - Full width layout when there are no widgets.
+
+2017.07.13 - version 1.0.8
+ * Fix - Fixes layout on handheld devices by adding a new break point.
+
+2017.07.03 - version 1.0.7
+ * Fix - Invalid default body color.
+
+2017.02.16 - version 1.0.6
+ * Tweak - Storefront 2.2.0 compatibility.
+
+2016.09.27 - version 1.0.5
+ * Fix - Product category title styling.
+ * Tweak - Compatibility with Storefront Powerpacks homepage category options.
+ * Tweak - Consistency of border radius for product images.
+
+2016.08.15 - version 1.0.4
+ * Tweak - Storefront 2.1 compatibility.
+
+2016.07.04 - version 1.0.3
+ * Fix - Logo alignment.
+
+2016.06.22 - version 1.0.2
+ * Fix - Positioning of tabs on the homepage template.
+
+2016.05.11 - version 1.0.1
+ * Tweak - Adopt Storefront 2.0's methods for applying default settings.
+ * Fix - Support for WordPress 4.5's custom logo feature.
+
+2016.04.25 - version 1.0.0
+ * Initial release.
